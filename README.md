@@ -67,3 +67,5 @@
 Розробку планується вести, використовуючи платформу .Net
 
 Сторінку реєстрації планується написати на Angular
+
+https://nickbelow.github.io/SitePolish/dip-test/HTML/index.html
